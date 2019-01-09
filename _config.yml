@@ -5,9 +5,9 @@
 # Site
 title: xuhkang
 subtitle:
-description:
+description:当能力不足以撑起野心，请学习
 keywords:
-author: xu123
+author: 许慧康
 language: zh-CN
 timezone:
 
@@ -30,11 +30,11 @@ skip_render:
 
 # Writing
 new_post_name: :title.md # File name of new posts
-default_layout: draft
+default_layout: draft   #post, page, draft
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
-render_drafts: false
+render_drafts: false  #预览草稿
 post_asset_folder: false
 relative_link: false
 future: true
